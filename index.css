@@ -1,0 +1,127 @@
+/* td{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+tr{
+    border: 1px solid black;
+}
+table{
+    border: 5px solid black;
+    border-radius: 5px;
+    width:30%;
+} */
+.tr-hover:hover {
+  background-color: rgb(253, 218, 176) !important;
+}
+.fixed-header-sticky {
+  position: sticky;
+  top: 0;
+  background-color: rgb(247, 190, 120);
+  /* color: white; */
+}
+/* .bordered{
+  border: 3px solid black;
+} */
+html {
+  background-color: bisque;
+}
+.btn {
+  background-color: rgb(247, 190, 120) !important;
+  cursor: pointer !important;
+}
+.margin-auto {
+  margin: auto;
+}
+.width-80 {
+  width: 80%;
+}
+fieldset {
+  border-radius: 5px;
+}
+.piq-google {
+  border-radius: 5px;
+  width: 50%;
+  margin: auto;
+  top: 10%;
+}
+/* #entrar{
+  cursor: pointer;
+}
+#cadastro{
+  cursor: pointer;
+} */
+input:focus {
+  color: black !important;
+}
+.limp {
+  float: right !important;
+  padding-right: 15px !important;
+}
+.sair {
+  float: left !important;
+  padding-left: 15px !important;
+}
+.body-calculator {
+  margin: 0;
+  padding: 0;
+}
+.bg-calculator {
+  background: linear-gradient(to right, salmon, #4750fc);
+  height: 100%;
+}
+.div-main-calculator {
+  border: 5px solid #363636;
+  border-radius: 15px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+.button-calculator {
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
+  margin: 2px;
+  cursor: pointer;
+  border: 0;
+  background: #363636;
+  color: white;
+  border-radius: 10px;
+}
+.button-calculator:active {
+  background-color: salmon;
+}
+.txtViewCalc {
+  margin: 5px;
+  width: 220px;
+  height: 50px;
+  padding: 5px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: right;
+}
+#button0 {
+  margin: 2px;
+  border-radius: 10px;
+  width: 96%;
+}
+#button0:active {
+  background-color: salmon;
+}
+#buttonEqual {
+  height: 105px;
+  width: 96%;
+}
+.table-calculator {
+  margin: auto;
+}
+
+.nav-mc {
+  background-color: green;
+}
+.html-mc {
+  background-color: #bdffc1;
+  /* margin-left: 19%; */
+}
