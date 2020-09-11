@@ -3,4 +3,4 @@
 Calculator | JavaScript | CSS
 
 
-Preview: <a href="https://javascript-calculator-taupe.vercel.app/" target="blank">javascript-calculator</a>
+Preview on Vercel: <a href="https://javascript-calculator-taupe.vercel.app/">javascript-calculator</a>
